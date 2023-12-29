@@ -1,4 +1,4 @@
-##hospital management software @cbsepython.in
+##hospital management software 
 ##PRINTING WELCOME NOTE
 while(True):
     print("""
